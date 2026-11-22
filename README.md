@@ -155,7 +155,7 @@ Python, pandas, Hugging Face Transformers, VADER, Gradio, WordCloud, matplotlib
 
 
 
-\## Author
+\## Author (Team NOVA)
 
 1. P Aparajitha, CSE-DS, RNSIT Bangalore · \[LinkedIn](https://www.linkedin.com/in/p-aparajitha)
 2. Neha Bhat, CSE-DS, RNSIT Bangalore · \[LinkedIn](https://www.linkedin.com/in/neha-bhat-162455368)
