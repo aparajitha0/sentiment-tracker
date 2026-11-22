@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/*.csv
+!data/campus_fest_sample.csv
+roberta_labels.csv
+insightfeed_results_*.csv

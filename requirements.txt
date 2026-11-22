@@ -1,0 +1,11 @@
+pandas
+matplotlib
+Pillow
+openpyxl
+vaderSentiment
+wordcloud
+transformers
+torch
+gradio
+scikit-learn
+anthropic
