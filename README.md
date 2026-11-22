@@ -1,4 +1,4 @@
-\[!\[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aparajitha0/sentiment-tracker/blob/main/notebooks/run\_app.ipynb)
+\[!\[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/aparajitha0/sentiment-tracker/blob/main/notebooks/run\_app.ipynb)
 
 
 
